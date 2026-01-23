@@ -1,0 +1,65 @@
+.content-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5em;
+}
+.content-icon .content-icon-body p, h4{
+    margin: 0;
+}
+.content-icon .content-icon-body h4{
+    font-size: 18px;
+}
+.content-icon .content-icon-body p{
+    font-size: 16px;
+}
+.content-icon .content-icon-head .icon-medium{
+    font-size: 32px;
+    margin-right: 25px;
+}
+.border-mx{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.bg-light-black{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    width: 100%;
+    height: 100%;
+}
+.bg-futbol{
+    height: 360px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://acdn-us.mitiendanube.com/stores/001/167/350/themes/new_linkedman/2-img-356375774-1742575787-868c7d211c63ddf09c47f3085c276bb01742575788-640-0.webp?1933960911);
+}
+.bg-infantil{
+    height: 360px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://acdn-us.mitiendanube.com/stores/001/167/350/themes/new_linkedman/1-img-2065375720-1681144527-f2d25dd3abfa0a8ce42a92d9a52698411681144527-640-0.webp?1933960911);
+}
+.bg-basquet{
+    height: 360px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://acdn-us.mitiendanube.com/stores/001/167/350/themes/new_linkedman/2-img-941279835-1762971494-fbc8a378e9703cc81cf7fb6ebc50616d1762971495-640-0.webp?1933960911);
+}

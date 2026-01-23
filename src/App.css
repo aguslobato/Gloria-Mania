@@ -1,0 +1,47 @@
+/* Fuentes */
+/* font-family: "Montserrat", sans-serif; */
+a{
+  text-decoration: none;
+}
+
+/* Links */
+nav .nav-top .nav-link.link-black{
+  font-size: 10px;
+}
+nav .nav-item .nav-link{
+  font-size: 13px;
+  font-family: "Montserrat", sans-serif;
+}
+nav .nav-item .item-small-icon i{
+  font-size: 18px;
+  position: relative;
+  top: -5px;
+}
+.link-black{
+  color: black;
+}
+.link-red{
+  color: #e41c24;
+  letter-spacing: 1px;
+  padding: 10px;
+}
+.link-red:hover{
+  color: rgb(209, 5, 5);
+  text-decoration: underline;
+}
+.link-bg-red{
+  background-color: #e41c24;
+  color: white;
+  text-decoration: none;
+  transition: all 0.5s;
+  padding: 6px 20px;
+}
+.link-bg-red:hover{
+  background-color: #bb1419;
+  transition: all 0.5s;
+}
+
+/* Backgrounds */
+.bg-light-black{
+  background-color: rgba(0, 0, 0, 0.542);
+}
